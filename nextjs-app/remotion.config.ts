@@ -1,5 +1,5 @@
 import {Config} from 'remotion';
-import {webpackOverride} from './src/webpack-override';
+import {webpackOverride} from '@/webpack-override';
 
 Config.setImageFormat('jpeg');
 Config.setOverwriteOutput(true);

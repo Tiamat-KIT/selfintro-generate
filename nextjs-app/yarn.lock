@@ -551,7 +551,7 @@
     tiny-glob "^0.2.9"
     tslib "^2.4.0"
 
-"@remotion/bundler@3.3.87":
+"@remotion/bundler@3.3.87", "@remotion/bundler@^3.3.87":
   version "3.3.87"
   resolved "https://registry.yarnpkg.com/@remotion/bundler/-/bundler-3.3.87.tgz#7a5bdbc69b3be57ebde1c46713a79f46af09da19"
   integrity sha512-SsNBsUXy8eO/RyvMyk1o27CPpNixFHJZxmXaMEtyK2F1PoRSrzxqgCtY4usIKnbTcHohemAYzqy59jVOZjfusg==
@@ -649,7 +649,7 @@
   dependencies:
     remotion "3.3.87"
 
-"@remotion/renderer@3.3.87":
+"@remotion/renderer@3.3.87", "@remotion/renderer@^3.3.87":
   version "3.3.87"
   resolved "https://registry.yarnpkg.com/@remotion/renderer/-/renderer-3.3.87.tgz#0fbfa2fd45ca29f6a27496b658e708bf24d558c2"
   integrity sha512-MJ/KEtPmrZIg06OqfUI0TUTl8Tdyf0T1LviJ3LmM1cOCzOLO6j151n8lirPGSmwg9aw0PZ6ckeMiEGjUQNpMQw==
